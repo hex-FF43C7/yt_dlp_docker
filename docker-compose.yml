@@ -6,5 +6,5 @@ services:
     container_name: yt_dlp_c
     volumes:
       - ./code:/app/code
-      - .input:/app/input
-      - .output:/app/output
+      - ./input:/app/input
+      - ./output:/app/output
