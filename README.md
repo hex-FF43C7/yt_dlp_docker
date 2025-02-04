@@ -6,9 +6,11 @@ format for catalog:
 
 [url]<br>
 [url] (B, E)<br>
-[url] (B, 4:47)<br>
-[url] (2:38, E)<br>
-[url] (30, 7:30)<br>
+[url] (B, 00:04:47)<br>
+[url] (00:02:38, E)<br>
+[url] (30, 00:07:30)<br>
+
+(hh:mm:ss)
 
 parenthasys define start of clip and end of clip. Hashtags coment lines
 
