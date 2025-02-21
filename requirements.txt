@@ -1,2 +1,4 @@
 yt_dlp
 colorama
+beautifulsoup4
+requests
