@@ -36,10 +36,9 @@ class link:
 
     link = soup.find_all(name="title")[0]
     title = str(link)
-    title = title.replace("<title>", "")
-    title = title.replace("</title>", "")
+    title = re.sub(r"</?title>", "")
     title = title.replace(" - YouTube", "")
-    title = re.replace(r'^\(\d*\) ?', '', title)
+    title = re.sub(r'^\(\d*\) ?', '', title)
     title = title.replace(" ", "_")
     title = re.sub(r'[<>:"/\\|?*\.]', '', title)
 
