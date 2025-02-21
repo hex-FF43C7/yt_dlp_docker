@@ -31,12 +31,15 @@ class link:
     self.name = self.get_name()
 
   def get_name(self):
-    r = requests.get(self.link)
-    soup = BeautifulSoup(r.text)
+    try:
+      r = requests.get(self.link, verify=True)
+    except requests.exceptions.SSLError:
+      r = requests.get(self.link, verify=False)
+    soup = BeautifulSoup(r.content, features="html.parser")
 
     link = soup.find_all(name="title")[0]
     title = str(link)
-    title = re.sub(r"</?title>", "")
+    title = re.sub(r"</?title>", "", title)
     title = title.replace(" - YouTube", "")
     title = re.sub(r'^\(\d*\) ?', '', title)
     title = title.replace(" ", "_")
