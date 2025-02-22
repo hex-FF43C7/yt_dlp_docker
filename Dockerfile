@@ -14,4 +14,4 @@ COPY ./requirements.txt .
 RUN pip install -r requirements.txt
 
 WORKDIR /app/code
-CMD [ "python3", "dev_entry.py" ]
+CMD [ "python3", "nrm_entry.py" ]

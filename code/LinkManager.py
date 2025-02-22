@@ -48,13 +48,15 @@ class link:
     return title
 
   def download(self):
-    if self.start == 'B':
+    if self.start == 'B' or self.start == 'b' or self.start is None:
       start_time = 0
     else:
       start_time = self.start
     
-    if self.stop == 'E':
-      end_time = None
+    if self.stop == 'E' or self.stop == 'e' or self.stop is None:
+      with yt_dlp.YoutubeDL() as ydl:
+        dictMeta = ydl.extract_info(self.link, download=False)
+      end_time = dictMeta['duration']
     else: 
       end_time = self.stop
     
@@ -62,7 +64,7 @@ class link:
     FFmpegPostProcessor._ffmpeg_location.set(ffmpeg_path)
 
     yt_opts = {
-        'outtmpl': os.path.normpath(self.out_path, f'{self.name}.%(ext)s'),
+        'outtmpl': os.path.join(self.out_path, f'{self.name}.%(ext)s'),
         'recode-video': 'mp4',
         'nocheckcertificate': True,
         'postprocessors': [{

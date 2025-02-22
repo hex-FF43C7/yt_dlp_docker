@@ -1,1 +1,156 @@
 
+[youtube] Extracting URL: https://www.youtube.com/watch?v=Yw6u6YkTgQ4
+[34m@@@[35m0/1
+[39m
+[youtube] Yw6u6YkTgQ4: Downloading webpage
+[youtube] Yw6u6YkTgQ4: Downloading tv client config
+[youtube] Yw6u6YkTgQ4: Downloading player c8dbda2a
+[youtube] Yw6u6YkTgQ4: Downloading tv player API JSON
+[youtube] Yw6u6YkTgQ4: Downloading ios player API JSON
+[youtube] Yw6u6YkTgQ4: Downloading m3u8 information
+[youtube] Extracting URL: https://www.youtube.com/watch?v=Yw6u6YkTgQ4
+[youtube] Yw6u6YkTgQ4: Downloading webpage
+[youtube] Yw6u6YkTgQ4: Downloading tv client config
+[youtube] Yw6u6YkTgQ4: Downloading player c8dbda2a
+[youtube] Yw6u6YkTgQ4: Downloading tv player API JSON
+[youtube] Yw6u6YkTgQ4: Downloading ios player API JSON
+[youtube] Yw6u6YkTgQ4: Downloading m3u8 information
+[info] Yw6u6YkTgQ4: Downloading 1 format(s): 399+251
+[download] Destination: /app/output/hello_world.f399.mp4
+[download]   0.0% of    4.60MiB at  293.76KiB/s ETA 00:16[download]   0.1% of    4.60MiB at  728.60KiB/s ETA 00:06[download]   0.1% of    4.60MiB at    1.43MiB/s ETA 00:03[download]   0.3% of    4.60MiB at    2.64MiB/s ETA 00:01[download]   0.7% of    4.60MiB at    4.86MiB/s ETA 00:00[download]   1.3% of    4.60MiB at    5.60MiB/s ETA 00:00[download]   2.7% of    4.60MiB at    7.15MiB/s ETA 00:00[download]   5.4% of    4.60MiB at    8.86MiB/s ETA 00:00[download]  10.9% of    4.60MiB at   11.51MiB/s ETA 00:00[download]  21.7% of    4.60MiB at   14.61MiB/s ETA 00:00[download]  43.5% of    4.60MiB at   17.16MiB/s ETA 00:00[download]  87.0% of    4.60MiB at   21.26MiB/s ETA 00:00[download] 100.0% of    4.60MiB at   23.96MiB/s ETA 00:00[download] 100% of    4.60MiB in 00:00:00 at 15.70MiB/s  
+[download] Destination: /app/output/hello_world.f251.webm
+[download]   0.0% of    1.99MiB at  238.57KiB/s ETA 00:08[download]   0.1% of    1.99MiB at  601.71KiB/s ETA 00:03[download]   0.3% of    1.99MiB at    1.10MiB/s ETA 00:01[download]   0.7% of    1.99MiB at    1.97MiB/s ETA 00:01[download]   1.5% of    1.99MiB at    3.49MiB/s ETA 00:00[download]   3.1% of    1.99MiB at    6.29MiB/s ETA 00:00[download]   6.2% of    1.99MiB at   10.47MiB/s ETA 00:00[download]  12.5% of    1.99MiB at   17.50MiB/s ETA 00:00[download]  25.1% of    1.99MiB at   27.09MiB/s ETA 00:00[download]  50.3% of    1.99MiB at   29.14MiB/s ETA 00:00[download] 100.0% of    1.99MiB at   30.48MiB/s ETA 00:00[download] 100% of    1.99MiB in 00:00:00 at 22.56MiB/s  
+[Merger] Merging formats into "/app/output/hello_world.webm"
+Deleting original file /app/output/hello_world.f399.mp4 (pass -k to keep)
+Deleting original file /app/output/hello_world.f251.webm (pass -k to keep)
+[VideoConvertor] Converting video from webm to mp4; Destination: /app/output/hello_world.mp4
+Deleting original file /app/output/hello_world.webm (pass -k to keep)
+[34m@@@[32mDownloaded hello_world
+[39m
+[youtube] Extracting URL: https://www.youtube.com/watch?v=Yw6u6YkTgQ4
+[34m@@@[35m0/1
+[39m
+[youtube] Yw6u6YkTgQ4: Downloading webpage
+[youtube] Yw6u6YkTgQ4: Downloading tv client config
+[youtube] Yw6u6YkTgQ4: Downloading player c8dbda2a
+[youtube] Yw6u6YkTgQ4: Downloading tv player API JSON
+[youtube] Yw6u6YkTgQ4: Downloading ios player API JSON
+[youtube] Yw6u6YkTgQ4: Downloading m3u8 information
+[youtube] Extracting URL: https://www.youtube.com/watch?v=Yw6u6YkTgQ4
+[youtube] Yw6u6YkTgQ4: Downloading webpage
+[youtube] Yw6u6YkTgQ4: Downloading tv client config
+[youtube] Yw6u6YkTgQ4: Downloading player c8dbda2a
+[youtube] Yw6u6YkTgQ4: Downloading tv player API JSON
+[youtube] Yw6u6YkTgQ4: Downloading ios player API JSON
+[youtube] Yw6u6YkTgQ4: Downloading m3u8 information
+[info] Yw6u6YkTgQ4: Downloading 1 format(s): 399+251
+[download] Destination: /app/output/hello_world.f399.mp4
+[download]   0.0% of    4.60MiB at  252.61KiB/s ETA 00:18[download]   0.1% of    4.60MiB at  625.55KiB/s ETA 00:07[download]   0.1% of    4.60MiB at    1.20MiB/s ETA 00:03[download]   0.3% of    4.60MiB at    2.14MiB/s ETA 00:02[download]   0.7% of    4.60MiB at    3.81MiB/s ETA 00:01[download]   1.3% of    4.60MiB at    6.97MiB/s ETA 00:00[download]   2.7% of    4.60MiB at    7.19MiB/s ETA 00:00[download]   5.4% of    4.60MiB at    9.02MiB/s ETA 00:00[download]  10.9% of    4.60MiB at   11.24MiB/s ETA 00:00[download]  21.7% of    4.60MiB at   14.29MiB/s ETA 00:00[download]  43.5% of    4.60MiB at   17.73MiB/s ETA 00:00[download]  87.0% of    4.60MiB at   23.03MiB/s ETA 00:00[download] 100.0% of    4.60MiB at   25.57MiB/s ETA 00:00[download] 100% of    4.60MiB in 00:00:00 at 15.71MiB/s  
+[download] Destination: /app/output/hello_world.f251.webm
+[download]   0.0% of    1.99MiB at  231.14KiB/s ETA 00:08[download]   0.1% of    1.99MiB at  610.61KiB/s ETA 00:03[download]   0.3% of    1.99MiB at    1.21MiB/s ETA 00:01[download]   0.7% of    1.99MiB at    2.31MiB/s ETA 00:00[download]   1.5% of    1.99MiB at    1.03MiB/s ETA 00:01[download]   3.1% of    1.99MiB at    1.08MiB/s ETA 00:01[download]   6.2% of    1.99MiB at    1.49MiB/s ETA 00:01[download]  12.5% of    1.99MiB at    2.16MiB/s ETA 00:00[download]  25.1% of    1.99MiB at    3.54MiB/s ETA 00:00[download]  50.3% of    1.99MiB at    5.21MiB/s ETA 00:00[download] 100.0% of    1.99MiB at    8.63MiB/s ETA 00:00[download] 100% of    1.99MiB in 00:00:00 at 5.30MiB/s   
+[Merger] Merging formats into "/app/output/hello_world.webm"
+Deleting original file /app/output/hello_world.f399.mp4 (pass -k to keep)
+Deleting original file /app/output/hello_world.f251.webm (pass -k to keep)
+[VideoConvertor] Converting video from webm to mp4; Destination: /app/output/hello_world.mp4
+Deleting original file /app/output/hello_world.webm (pass -k to keep)
+[34m@@@[32mDownloaded hello_world
+[39m
+[youtube] Extracting URL: https://www.youtube.com/watch?v=Yw6u6YkTgQ4
+[34m@@@[35m0/2
+[39m
+[youtube] Yw6u6YkTgQ4: Downloading webpage
+[youtube] Yw6u6YkTgQ4: Downloading tv client config
+[youtube] Yw6u6YkTgQ4: Downloading player c8dbda2a
+[youtube] Yw6u6YkTgQ4: Downloading tv player API JSON
+[youtube] Yw6u6YkTgQ4: Downloading ios player API JSON
+[youtube] Yw6u6YkTgQ4: Downloading m3u8 information
+[youtube] Extracting URL: https://www.youtube.com/watch?v=Yw6u6YkTgQ4
+[youtube] Yw6u6YkTgQ4: Downloading webpage
+[youtube] Yw6u6YkTgQ4: Downloading tv client config
+[youtube] Yw6u6YkTgQ4: Downloading player c8dbda2a
+[youtube] Yw6u6YkTgQ4: Downloading tv player API JSON
+[youtube] Yw6u6YkTgQ4: Downloading ios player API JSON
+[youtube] Yw6u6YkTgQ4: Downloading m3u8 information
+[info] Yw6u6YkTgQ4: Downloading 1 format(s): 399+251
+[download] Destination: /app/output/hello_world.f399.mp4
+[download]   0.0% of    4.60MiB at  309.11KiB/s ETA 00:15[download]   0.1% of    4.60MiB at  761.86KiB/s ETA 00:06[download]   0.1% of    4.60MiB at    1.47MiB/s ETA 00:03[download]   0.3% of    4.60MiB at    2.68MiB/s ETA 00:01[download]   0.7% of    4.60MiB at    4.84MiB/s ETA 00:00[download]   1.3% of    4.60MiB at    4.31MiB/s ETA 00:01[download]   2.7% of    4.60MiB at    5.48MiB/s ETA 00:00[download]   5.4% of    4.60MiB at    6.91MiB/s ETA 00:00[download]  10.9% of    4.60MiB at    9.83MiB/s ETA 00:00[download]  21.7% of    4.60MiB at   13.34MiB/s ETA 00:00[download]  43.5% of    4.60MiB at   16.41MiB/s ETA 00:00[download]  87.0% of    4.60MiB at   20.84MiB/s ETA 00:00[download] 100.0% of    4.60MiB at   22.74MiB/s ETA 00:00[download] 100% of    4.60MiB in 00:00:00 at 14.32MiB/s  
+[download] Destination: /app/output/hello_world.f251.webm
+[download]   0.0% of    1.99MiB at   57.47KiB/s ETA 00:35[download]   0.1% of    1.99MiB at  163.45KiB/s ETA 00:12[download]   0.3% of    1.99MiB at  354.66KiB/s ETA 00:05[download]   0.7% of    1.99MiB at  709.44KiB/s ETA 00:02[download]   1.5% of    1.99MiB at    1.31MiB/s ETA 00:01[download]   3.1% of    1.99MiB at    2.48MiB/s ETA 00:00[download]   6.2% of    1.99MiB at    4.64MiB/s ETA 00:00[download]  12.5% of    1.99MiB at    8.25MiB/s ETA 00:00[download]  25.1% of    1.99MiB at   13.44MiB/s ETA 00:00[download]  50.3% of    1.99MiB at   22.77MiB/s ETA 00:00[download] 100.0% of    1.99MiB at   28.03MiB/s ETA 00:00[download] 100% of    1.99MiB in 00:00:00 at 21.75MiB/s  
+[Merger] Merging formats into "/app/output/hello_world.webm"
+Deleting original file /app/output/hello_world.f251.webm (pass -k to keep)
+Deleting original file /app/output/hello_world.f399.mp4 (pass -k to keep)
+[VideoConvertor] Converting video from webm to mp4; Destination: /app/output/hello_world.mp4
+Deleting original file /app/output/hello_world.webm (pass -k to keep)
+[youtube] Extracting URL: https://www.youtube.com/watch?v=cVsQLlk-T0s
+[34m@@@[32mDownloaded hello_world
+[39m
+[34m@@@[35m1/2
+[39m
+[youtube] cVsQLlk-T0s: Downloading webpage
+[youtube] cVsQLlk-T0s: Downloading tv client config
+[youtube] cVsQLlk-T0s: Downloading player c8dbda2a
+[youtube] cVsQLlk-T0s: Downloading tv player API JSON
+[youtube] cVsQLlk-T0s: Downloading ios player API JSON
+[youtube] cVsQLlk-T0s: Downloading m3u8 information
+[youtube] Extracting URL: https://www.youtube.com/watch?v=cVsQLlk-T0s
+[youtube] cVsQLlk-T0s: Downloading webpage
+[youtube] cVsQLlk-T0s: Downloading tv client config
+[youtube] cVsQLlk-T0s: Downloading player c8dbda2a
+[youtube] cVsQLlk-T0s: Downloading tv player API JSON
+[youtube] cVsQLlk-T0s: Downloading ios player API JSON
+[youtube] cVsQLlk-T0s: Downloading m3u8 information
+[info] cVsQLlk-T0s: Downloading 1 format(s): 397+251
+[download] Destination: /app/output/More_Cowbell_-_SNL.f397.mp4
+[download]   0.0% of   16.66MiB at  243.85KiB/s ETA 01:10[download]   0.0% of   16.66MiB at  622.92KiB/s ETA 00:27[download]   0.0% of   16.66MiB at    1.24MiB/s ETA 00:13[download]   0.1% of   16.66MiB at    2.27MiB/s ETA 00:07[download]   0.2% of   16.66MiB at    4.21MiB/s ETA 00:03[download]   0.4% of   16.66MiB at    5.18MiB/s ETA 00:03[download]   0.7% of   16.66MiB at    7.36MiB/s ETA 00:02[download]   1.5% of   16.66MiB at    9.17MiB/s ETA 00:01[download]   3.0% of   16.66MiB at   12.17MiB/s ETA 00:01[download]   6.0% of   16.66MiB at   14.40MiB/s ETA 00:01[download]  12.0% of   16.66MiB at   18.40MiB/s ETA 00:00[download]  24.0% of   16.66MiB at   21.85MiB/s ETA 00:00[download]  48.0% of   16.66MiB at   25.43MiB/s ETA 00:00[download]  58.1% of   16.66MiB at   28.29MiB/s ETA 00:00[download]  58.1% of   16.66MiB at  Unknown B/s ETA Unknown[download]  58.2% of   16.66MiB at    1.56MiB/s ETA 00:04  [download]  58.2% of   16.66MiB at    1.93MiB/s ETA 00:03[download]  58.2% of   16.66MiB at    3.06MiB/s ETA 00:02[download]  58.3% of   16.66MiB at    4.92MiB/s ETA 00:01[download]  58.5% of   16.66MiB at    7.97MiB/s ETA 00:00[download]  58.9% of   16.66MiB at    6.57MiB/s ETA 00:01[download]  59.6% of   16.66MiB at   11.50MiB/s ETA 00:00[download]  61.1% of   16.66MiB at   20.11MiB/s ETA 00:00[download]  64.1% of   16.66MiB at   25.32MiB/s ETA 00:00[download]  70.1% of   16.66MiB at   26.98MiB/s ETA 00:00[download]  82.1% of   16.66MiB at   26.66MiB/s ETA 00:00[download] 100.0% of   16.66MiB at   28.55MiB/s ETA 00:00[download] 100% of   16.66MiB in 00:00:00 at 24.34MiB/s  
+[download] Destination: /app/output/More_Cowbell_-_SNL.f251.webm
+[download]   0.0% of    5.09MiB at  126.75KiB/s ETA 00:41[download]   0.1% of    5.09MiB at  336.31KiB/s ETA 00:15[download]   0.1% of    5.09MiB at  699.47KiB/s ETA 00:07[download]   0.3% of    5.09MiB at    1.11MiB/s ETA 00:04[download]   0.6% of    5.09MiB at    2.04MiB/s ETA 00:02[download]   1.2% of    5.09MiB at    3.71MiB/s ETA 00:01[download]   2.4% of    5.09MiB at    6.36MiB/s ETA 00:00[download]   4.9% of    5.09MiB at   10.61MiB/s ETA 00:00[download]   9.8% of    5.09MiB at   18.14MiB/s ETA 00:00[download]  19.6% of    5.09MiB at   19.31MiB/s ETA 00:00[download]  39.3% of    5.09MiB at   23.83MiB/s ETA 00:00[download]  78.6% of    5.09MiB at   26.78MiB/s ETA 00:00[download] 100.0% of    5.09MiB at   29.90MiB/s ETA 00:00[download] 100% of    5.09MiB in 00:00:00 at 24.01MiB/s  
+[Merger] Merging formats into "/app/output/More_Cowbell_-_SNL.webm"
+Deleting original file /app/output/More_Cowbell_-_SNL.f397.mp4 (pass -k to keep)
+Deleting original file /app/output/More_Cowbell_-_SNL.f251.webm (pass -k to keep)
+[VideoConvertor] Converting video from webm to mp4; Destination: /app/output/More_Cowbell_-_SNL.mp4
+Deleting original file /app/output/More_Cowbell_-_SNL.webm (pass -k to keep)
+[34m@@@[32mDownloaded More_Cowbell_-_SNL
+[39m
+[youtube] Extracting URL: https://www.youtube.com/watch?v=Yw6u6YkTgQ4
+[34m@@@[35m0/2
+[39m
+[youtube] Yw6u6YkTgQ4: Downloading webpage
+[youtube] Yw6u6YkTgQ4: Downloading tv client config
+[youtube] Yw6u6YkTgQ4: Downloading player c8dbda2a
+[youtube] Yw6u6YkTgQ4: Downloading tv player API JSON
+[youtube] Yw6u6YkTgQ4: Downloading ios player API JSON
+[youtube] Yw6u6YkTgQ4: Downloading m3u8 information
+[youtube] Extracting URL: https://www.youtube.com/watch?v=Yw6u6YkTgQ4
+[youtube] Yw6u6YkTgQ4: Downloading webpage
+[youtube] Yw6u6YkTgQ4: Downloading tv client config
+[youtube] Yw6u6YkTgQ4: Downloading player c8dbda2a
+[youtube] Yw6u6YkTgQ4: Downloading tv player API JSON
+[youtube] Yw6u6YkTgQ4: Downloading ios player API JSON
+[youtube] Yw6u6YkTgQ4: Downloading m3u8 information
+[info] Yw6u6YkTgQ4: Downloading 1 format(s): 399+251
+[info] Yw6u6YkTgQ4: Downloading 1 time ranges: 0.0-115.0
+[download] Destination: /app/output/hello_world.webm
+[download] 100% of    8.88MiB in 00:04:50 at 31.36KiB/s
+[VideoConvertor] Converting video from webm to mp4; Destination: /app/output/hello_world.mp4
+Deleting original file /app/output/hello_world.webm (pass -k to keep)
+[youtube] Extracting URL: https://www.youtube.com/watch?v=cVsQLlk-T0s
+[34m@@@[32mDownloaded hello_world
+[39m
+[34m@@@[35m1/2
+[39m
+[youtube] cVsQLlk-T0s: Downloading webpage
+[youtube] cVsQLlk-T0s: Downloading tv client config
+[youtube] cVsQLlk-T0s: Downloading player c8dbda2a
+[youtube] cVsQLlk-T0s: Downloading tv player API JSON
+[youtube] cVsQLlk-T0s: Downloading ios player API JSON
+[youtube] cVsQLlk-T0s: Downloading m3u8 information
+[youtube] Extracting URL: https://www.youtube.com/watch?v=cVsQLlk-T0s
+[youtube] cVsQLlk-T0s: Downloading webpage
+[youtube] cVsQLlk-T0s: Downloading tv client config
+[youtube] cVsQLlk-T0s: Downloading player c8dbda2a
+[youtube] cVsQLlk-T0s: Downloading tv player API JSON
+[youtube] cVsQLlk-T0s: Downloading ios player API JSON
+[youtube] cVsQLlk-T0s: Downloading m3u8 information
+[info] cVsQLlk-T0s: Downloading 1 format(s): 397+251
+[info] cVsQLlk-T0s: Downloading 1 time ranges: 0.0-342.0
+[download] Destination: /app/output/More_Cowbell_-_SNL.webm
